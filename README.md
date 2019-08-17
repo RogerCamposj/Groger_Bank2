@@ -1,5 +1,5 @@
 # Groger_Bank3
-
+Este programa é o resultado de um exercício que consiste em programar utilizadndo `python3`.
 
 ## Integrantes
 - Roger Campos Jacinto
